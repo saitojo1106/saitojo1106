@@ -6,7 +6,7 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=vue" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=node" /> <br /><br />
 
 ## DB and Dev Tools etc
 
