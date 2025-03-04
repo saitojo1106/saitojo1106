@@ -6,7 +6,7 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=firebase" /> <br /><br />
 
 ## DB and Dev Tools etc
 
