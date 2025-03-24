@@ -27,9 +27,9 @@ I'm a software developer passionate about open-source projects and web developme
 [![](https://github-readme-streak-stats.herokuapp.com/?user=saitojo1106&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=●●●&theme=★★★)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saitojo1106/saitojo1106/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saitojo1106/saitojo1106/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saitojo1106/saitojo1106/master/img/snake.svg">
 </picture>
 
 
