@@ -26,4 +26,4 @@ jobs:
         with:
           add: 'img/*.svg'
           message: ':rocket: Update'
-          push: '--push-origin main'
+          push: true
