@@ -3,7 +3,7 @@
 I'm a software developer passionate about open-source projects and web development.
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=saitojo1106)
 
 ## Programming Languages
 
@@ -11,7 +11,7 @@ I'm a software developer passionate about open-source projects and web developme
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=firebase,nextjs,nodejs.vue.js" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=firebase,nextjs,nodejs,vue" /> <br /><br />
 
 ## DB and Dev Tools etc
 
@@ -24,7 +24,7 @@ I'm a software developer passionate about open-source projects and web developme
 
 
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=saitojo1106&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=●●●&theme=★★★)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=saitojo1106&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=saitojo1106&theme=dark)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saitojo1106/saitojo1106/master/img/snake-dark.svg">
