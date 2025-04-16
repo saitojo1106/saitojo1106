@@ -15,7 +15,7 @@ I'm a software developer passionate about open-source projects and web developme
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" /> <br /><br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saitojo1106&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=saitojo1106&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
