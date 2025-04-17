@@ -1,10 +1,6 @@
 # Hello, I'm Jo Saito! 👋
 
 I'm a software developer passionate about open-source projects and web development.
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitojo1106&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=saitojo1106&theme=onedark&show_icons=ture" />
-</p>
 
 ## Programming Languages
 
@@ -18,11 +14,15 @@ I'm a software developer passionate about open-source projects and web developme
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" /> <br /><br />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saitojo1106&theme=dark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitojo1106&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=saitojo1106&theme=onedark&show_icons=ture" />
+</p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=saitojo1106&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=saitojo1106&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=saitojo1106&theme=dark)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saitojo1106/saitojo1106/master/img/snake-dark.svg">
