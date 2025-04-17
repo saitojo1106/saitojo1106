@@ -7,7 +7,7 @@ I'm a software developer passionate about open-source projects and web developme
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,react,tailwindcss,matlab" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,react,tailwindcss,matlab,java" /> <br /><br />
 
 ## Frameworks and Library
 
