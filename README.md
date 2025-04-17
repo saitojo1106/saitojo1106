@@ -2,9 +2,6 @@
 
 I'm a software developer passionate about open-source projects and web development.
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=saitojo1106)
-
 ## Programming Languages
 
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,react,tailwindcss,matlab,java" /> <br /><br />
