@@ -23,6 +23,14 @@ I'm a software developer passionate about open-source projects and web developme
 [![trophy](https://github-profile-trophy.vercel.app/?username=saitojo1106&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
+## GitHub Profile Summary Cards
+
+<img src="https://raw.githubusercontent.com/saitojo1106/saitojo1106/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" width="100%" />
+<div style="display: flex; gap: 10px;">
+  <img src="https://raw.githubusercontent.com/saitojo1106/saitojo1106/main/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" width="32%" />
+  <img src="https://raw.githubusercontent.com/saitojo1106/saitojo1106/main/profile-summary-card-output/chartreuse_dark/3-stats.svg" width="32%" />
+  <img src="https://raw.githubusercontent.com/saitojo1106/saitojo1106/main/profile-summary-card-output/chartreuse_dark/4-productive-time.svg" width="32%" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saitojo1106/saitojo1106/master/img/snake-dark.svg">
