@@ -1,0 +1,25 @@
+name: GitHub Profile Summary Cards
+
+# このワークフローは毎日0時に実行されます
+on:
+  schedule:
+    - cron: '0 0 */1 * *'  # 毎日0時に実行（UTCタイムゾーン）
+  workflow_dispatch:  # 手動実行も可能
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: GitHub Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # GitHubが提供するデフォルトのトークンを使用
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # リポジトリ所有者のユーザー名を使用
+          USERNAME: ${{ github.repository_owner }}
+
