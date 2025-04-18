@@ -2,31 +2,53 @@ name: GitHub Profile Summary Cards
 
 # このワークフローは毎日0時に実行されます
 on:
+  # UTCタイムゾーンで毎日0時に実行
   schedule:
-    - cron: '0 0 */1 * *'  # 毎日0時に実行（UTCタイムゾーン）
-  workflow_dispatch:  # 手動実行も可能
+    - cron: '0 0 */1 * *'
+  # 手動実行も可能
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
-    # ワークフローに書き込み権限を明示的に付与
+    
+    # リポジトリコンテンツの読み書き権限を付与
     permissions:
       contents: write
     
     steps:
+      # リポジトリのチェックアウト
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
       
-      - name: GitHub Profile Summary Cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          # GitHubが提供するデフォルトのトークンを使用
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # GitHub Profile Summary Cardsの生成
+      - name: Generate GitHub Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@master
         with:
-          # リポジトリ所有者のユーザー名を使用
+          # ユーザー名の設定
           USERNAME: ${{ github.repository_owner }}
+          # 出力先の設定（profile-summary-card-output がデフォルト）
+          OUT_PATH: ./profile-summary-card-output/
+          # 生成するカードタイプの指定
+          OUTPUT_TYPE: github, stats, productive-time, repos-per-language, most-commit-language
+          # 除外する言語（必要に応じて設定）
+          # EXCLUDE: html,css
+        env:
+          # GitHubトークンを設定
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # 特別なアクセス設定
+          REPOSITORY_OWNER: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          
+      # 生成されたカードの追加と説明
+      - name: Commit and Push
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add .
+          git commit -m "docs(readme): 😁 自動更新されたGitHub Profile Summary Cards" || echo "No changes to commit"
+          git push
 
