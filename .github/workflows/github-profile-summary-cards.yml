@@ -10,15 +10,22 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
+    # ワークフローに書き込み権限を明示的に付与
+    permissions:
+      contents: write
     
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       
       - name: GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           # GitHubが提供するデフォルトのトークンを使用
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           # リポジトリ所有者のユーザー名を使用
           USERNAME: ${{ github.repository_owner }}
