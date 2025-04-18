@@ -2,27 +2,6 @@
 
 I'm a software developer passionate about open-source projects and web development.
 
-## Programming Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,react,tailwindcss,matlab,java" /> <br /><br />
-
-## Frameworks and Library
-
-<img src="https://skillicons.dev/icons?i=firebase,nextjs,nodejs,vue" /> <br /><br />
-
-## DB and Dev Tools etc
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" /> <br /><br />
-
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitojo1106&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=saitojo1106&theme=onedark&show_icons=ture" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=saitojo1106&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## GitHub Profile Summary Cards
 
 <img src="https://raw.githubusercontent.com/saitojo1106/saitojo1106/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg" width="100%" />
@@ -38,9 +17,35 @@ I'm a software developer passionate about open-source projects and web developme
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saitojo1106/saitojo1106/master/img/snake.svg">
 </picture>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=saitojo1106&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Programming Languages
 
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,react,tailwindcss,matlab,java" /> <br /><br />
 
+## Frameworks and Library
+
+<img src="https://skillicons.dev/icons?i=firebase,nextjs,nodejs,vue" /> <br /><br />
+
+## DB and Dev Tools etc
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" /> <br /><br />
+
+<!-- --------------------------------- :) ---------------------------------- -->
+
+<br><br><br>
+
+<div align="center">
+    <h1>
+        <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
+        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
+        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
+        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
+        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
+    </h1>
+  </div>
+<br><br><br>
 
 
 ## Badges
