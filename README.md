@@ -30,7 +30,7 @@ I'm a software developer passionate about open-source projects and web developme
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,supabase,linux,ubuntu,eclipse,anaconda,raspberrypi,notion,figma,twitter,gmail" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,supabase,vercel,linux,ubuntu,eclipse,anaconda,raspberrypi,notion,figma,twitter,gmail" /> <br /><br />
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
