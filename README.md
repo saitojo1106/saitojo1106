@@ -17,11 +17,9 @@ I'm a software developer passionate about open-source projects and web developme
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saitojo1106/saitojo1106/master/img/snake.svg">
 </picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saitojo1106&theme=noctis-minimus&hide_border=%E9%96%93%E9%81%95%E3%81%84&border_radius=5&locale=ja&short_numbers=%E9%96%93%E9%81%95%E3%81%84&date_format=%5BY.%5Dn.j&card_width=700&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=saitojo1106&theme=chartreuse-dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=saitojo1106&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saitojo1106&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Programming Languages
 
@@ -53,6 +51,5 @@ I'm a software developer passionate about open-source projects and web developme
 
 ## Badges
 
-![GitHub followers](https://img.shields.io/github/followers/saitojo1106?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/mukimuki_js?style=social)
-
+![GitHub followers](https://img.shields.io/github/followers/saitojo1106?label=Follow&style=social&logo=github)
+![Twitter Follow](https://img.shields.io/twitter/follow/mukimuki_js?style=social&logo=twitter)
