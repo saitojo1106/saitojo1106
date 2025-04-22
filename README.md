@@ -21,17 +21,18 @@ I'm a software developer passionate about open-source projects and web developme
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=saitojo1106&theme=darkhub&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Programming Languages
-
+# 触ったことのある言語など(講義,インターン,趣味,研究室などにおいて)
+- Programming Languages
+  
 <img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,react,tailwindcss,matlab,java" /> <br /><br />
 
-## Frameworks and Library
+- Frameworks and Library
 
 <img src="https://skillicons.dev/icons?i=firebase,nextjs,nodejs,vue" /> <br /><br />
 
-## DB and Dev Tools etc
+- DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,supabase,vercel,linux,ubuntu,eclipse,anaconda,raspberrypi,notion,figma,twitter,gmail" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,supabase,vercel,linux,ubuntu,eclipse,anaconda,raspberrypi,notion,figma" /> <br /><br />
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
