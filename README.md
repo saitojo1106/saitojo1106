@@ -24,11 +24,11 @@ I'm a software developer passionate about open-source projects and web developme
 # 触ったことのある言語など(講義,インターン,趣味,研究室などにおいて)
 - Programming Languages
   
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,react,tailwindcss,matlab,java" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,react,tailwindcss,matlab,java,php" /> <br /><br />
 
 - Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=firebase,nextjs,nodejs,vue" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=firebase,nextjs,nodejs,vue,laravel" /> <br /><br />
 
 - DB and Dev Tools etc
 
