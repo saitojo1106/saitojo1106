@@ -32,7 +32,7 @@ I'm a software developer passionate about open-source projects and web developme
 
 - DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=git,github,aws,docker,supabase,vercel,linux,ubuntu,eclipse,anaconda,raspberrypi,vscode,npm,notion,figma,mysql,postgresql,sqlite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,firebase,aws,docker,supabase,vercel,linux,ubuntu,eclipse,anaconda,raspberrypi,vscode,npm,notion,figma,mysql,postgresql,sqlite" /> <br /><br />
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
