@@ -28,7 +28,7 @@ I'm a software developer passionate about open-source projects and web developme
 
 - Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=firebase,nextjs,nodejs,vue,laravel,react,tailwindcss,flask" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,vue,laravel,react,tailwindcss,flask" /> <br /><br />
 
 - DB and Dev Tools etc
 
