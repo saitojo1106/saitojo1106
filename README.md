@@ -24,7 +24,7 @@ I'm a software developer passionate about open-source projects and web developme
 # 触ったことのある言語など(講義,インターン,趣味,研究室などにおいて)
 - Programming Languages
   
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,matlab,java,php,dart" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,c,matlab,java,php,dart,go" /> <br /><br />
 
 - Frameworks and Library
 
@@ -32,7 +32,7 @@ I'm a software developer passionate about open-source projects and web developme
 
 - DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=git,github,firebase,aws,docker,supabase,vercel,linux,ubuntu,eclipse,anaconda,raspberrypi,vscode,npm,notion,figma,mysql,postgresql,sqlite" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=git,github,firebase,aws,docker,supabase,vercel,linux,ubuntu,eclipse,anaconda,raspberrypi,vscode,npm,notion,figma,mysql,postgresql,sqlite,oracle" /> <br /><br />
 
 <!-- --------------------------------- :) ---------------------------------- -->
 
