@@ -5,11 +5,17 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # ← これが重要（pushするため）
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # ← GITHUB_TOKEN をgitに残す
+          fetch-depth: 0
 
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
